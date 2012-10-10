@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/usr/local/eclipse/readme'
+let g:netrw_dirhist_2='/Users/brandonfredericks/developer_vm/project/suez/python-client/suez.egg-info'
+let g:netrw_dirhist_3='/Users/brandonfredericks/developer_vm/project-virt/suez'
